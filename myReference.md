@@ -18,3 +18,6 @@
 
 ### overall theory index
 # https://www.notion.so/Notes-f6113db64d154afc9a74df00e3df3285
+
+### You Don't Know JS: Async & Performance - 1st Edition
+* https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/async%20%26%20performance
